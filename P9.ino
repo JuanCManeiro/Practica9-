@@ -1,3 +1,12 @@
+/*
+*********************************
+             Para que quede bonito
+           ponemos los comentarios
+        entre barra y asterisco
+      para abrir y 
+    para cerrar
+*********************************
+*/
 # Practica9-
 yo voy mas lento
 JuanCManeiro/JuanCManeiro
